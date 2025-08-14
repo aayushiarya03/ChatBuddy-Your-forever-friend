@@ -8,7 +8,7 @@ An AI-powered chatbot built with **HTML, CSS, and JavaScript**, integrated with 
 - **Google Gemini integration** – Uses Gemini’s latest AI model for natural conversation and image understanding.<br/>
 - **No backend required** – Entirely frontend-based, runs directly in the browser.<br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript <br/>
 - **AI Model:** Google Gemini API <br/>
 - **Image Processing:** Gemini Vision API <br/>
